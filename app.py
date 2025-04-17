@@ -1,5 +1,5 @@
 import streamlit as st
-from gtts import gttS
+from gtts import gTTS
 from deep_translator import GoogleTranslator
 import os
 
